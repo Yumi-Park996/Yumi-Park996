@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yumi Park!
+# 🔱 Hello, I'm Yumi Park!
 
 🌟 **A Developer in Progress**  
 <br>
