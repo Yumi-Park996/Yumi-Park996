@@ -51,12 +51,12 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 ### 🐶 MongsilBot ([🔗Repo](https://github.com/Yumi-Park996/MongsilBot))
 > **슬랙 동기부여 챗봇** (JavaScript & Node.js)
 - 슬랙 채널에서 반려동물이 매일 격려 메시지를 보내는 봇
-- Node.js 기반으로 구현, LLM 활용 메시지 및 이미지 생성
+- Java 기반으로 구현, LLM 활용 메시지 및 이미지 생성
 
 ### 🤖 JavaBot ([🔗Repo](https://github.com/Yumi-Park996/JavaBot))
 > **Java 디자인 패턴 학습용 봇** (Java)
 - 매일 한 개의 Java 디자인 패턴을 GitHub Issues에 공유하는 봇
-- Node.js 기반으로 구현, LLM 활용 메시지 및 이미지 생성
+- Java 기반으로 구현, LLM 활용 메시지 및 이미지 생성
 
 ---
 
