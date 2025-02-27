@@ -1,8 +1,11 @@
 # 👋 Hello, I'm Yumi Park!
 
 🌟 **A Developer in Progress**  
+<br>
 안녕하세요! 저는 백엔드 개발자가 되고 싶은 **AIBE 1기 학습자** 박유미입니다.  
+<br>
 현재 **Java와 JavaScript 기반의 백엔드 개발**을 공부하고 있으며,  
+<br>
 AI와 데이터 관련 기술에도 관심이 많아요.  
 
 ---
@@ -30,11 +33,15 @@ AI와 데이터 관련 기술에도 관심이 많아요.
   - HTML, CSS (UI/UX 디자인)
   - GitHub Pages 배포
 
-### 🦾 FixBot ([🔗Repo](https://github.com/Yumi-SideProject/FixBot)) "진행중"
-> **증상 기반 고장 진단 챗봇** (Python & Java)
+---
+
+### 🦾 FixBot ([🔗Repo](https://github.com/Yumi-SideProject/FixBot)) _⏳ 진행 중_
+> **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (Python & Java)
 - 자연어 입력을 통해 가전제품의 고장 원인을 분석하고 해결책을 제공
 - AI 기반의 RAG(Retrieval-Augmented Generation) 방식으로 동작
 - Java로 데이터 처리 로직을 구현하고, Python으로 AI 모델을 연결
+
+---
 
 ### 📰 NewsBot ([🔗Repo](https://github.com/Yumi-Park996/NewsBot))
 > **자동 뉴스 요약 봇** (Java & Python)
