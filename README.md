@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Yumi-Park996"/>
+</a>
+
 # 🔱 Hello, I'm Yumi Park!
 
 🌟 **A Developer in Progress**  
