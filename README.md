@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Yumi-Park996" width="10000" height="900"/>
+  <img src="https://render.gitanimals.org/farms/Yumi-Park996" width="5000" height="500"/>
 </a>
 
 # 🔱 Hello, I'm Yumi Park!
