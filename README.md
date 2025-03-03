@@ -43,8 +43,8 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 📰 NewsBot_Renewal ([🔗Repo](https://github.com/Yumi-Park996/NewsBot_Renewal))
-> **자동 뉴스 요약 & 투자자 코멘트 생성 봇** (Java + LLM)
+### 📰 NewsBot_Renewal ([🔗Repo](https://github.com/Yumi-Park996/NewsBot_Renewal)) _⏳ 진행 중_
+> **사이드 프로젝트 - 자동 뉴스 요약 & 투자자 코멘트 생성 봇** (Java + LLM)
 - 최신 뉴스 수집 및 LLM 기반 요약, 투자자 코멘트 생성 자동화
 - Naver 뉴스 API 크롤러 + Brevo 이메일 전송 기능 탑재
 - GitHub Actions 스케줄러로 지정 시간마다 자동 실행
