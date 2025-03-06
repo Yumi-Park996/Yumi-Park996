@@ -82,7 +82,7 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 🖥️ **Languages**
+### 🖥️ Languages
 
 |   |   |   |   |
 |---|---|---|---|
@@ -90,15 +90,15 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### ⚙️ **Frameworks, Platforms and Libraries**
+### ⚙️ Frameworks, Platforms and Libraries
 
 |   |   |   |   |
 |---|---|---|---|
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) |
 
 ---
 
-### 🧠 **Machine Learning / Data Science**
+### 🧠 Machine Learning / Data Science
 
 |   |   |   |   |
 |---|---|---|---|
@@ -106,7 +106,7 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 🗄️ **Databases**
+### 🗄️ Databases
 
 |   |   |   |   |
 |---|---|---|---|
@@ -114,15 +114,23 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 💻 **IDEs/Editors**
+### ☁️ Cloud
 
 |   |   |   |   |
 |---|---|---|---|
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |  |  |
 
 ---
 
-### 📈 **Project Management & Collaboration Tools**
+### 💻 IDEs/Editors
+
+|   |   |   |   |
+|---|---|---|---|
+| ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |  |
+
+---
+
+### 📈 Collaboration
 
 |   |   |   |   |
 |---|---|---|---|
