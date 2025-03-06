@@ -92,8 +92,8 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ### ⚙️ Frameworks, Platforms and Libraries
 
-|   |   |   |   |
-|---|---|---|---|
+|   |   |   |
+|---|---|---|
 | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
 
 ---
@@ -116,8 +116,8 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ### 💻 IDEs/Editors
 
-|   |   |   |   |
-|---|---|---|---|
+|   |   |   |
+|---|---|---|
 | ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) | 
 
 ---
