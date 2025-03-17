@@ -55,37 +55,30 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 🦾 FixBot ([🔗Repo](https://github.com/Yumi-SideProject/FixBot)) _⏳ 진행 중_
-> **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (Python & Java)
-- 자연어 입력을 통해 가전제품의 고장 원인을 분석하고 해결책을 제공
-- AI 기반의 RAG(Retrieval-Augmented Generation) 방식으로 동작
-- Java로 데이터 처리 로직을 구현하고, Python으로 AI 모델을 연결
-
+### 🦾 FixBot ([🔗Repo](https://github.com/Yumi-SideProject/FixBot-V1))_⏳ 진행 중
+> **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (Java Spring + LLM)
+- 사용자의 자연어 입력을 분석하여 전자제품 고장 원인을 파악하고 해결책 제공
+- AI 기반 검색어 최적화: OpenAI API를 활용해 대화형 방식으로 검색어 변환
+- YouTube & Google 검색 결과 제공: 검색된 정보를 OpenAI API로 필터링하여 적절한 해결책 추천
+- RAG 없이 AI 답변 생성: 검색 결과 기반이 아닌, AI가 직접 해결책을 제안
+- Java Spring을 기반으로 백엔드 개발, Docker & Render로 배포 예정
 ---
 
-### 📰 NewsBot_Renewal ([🔗Repo](https://github.com/Yumi-Park996/NewsBot_Renewal)) _⏳ 진행 중_Jump To The "FinanceBot"
+### 🏦 AIStockGuide ([🔗Repo](https://github.com/Yumi-Park996/Investment-guides))
+> **사이드 프로젝트 - AI 기반 해외 주식 투자 가이드** (Java + OpenAI)
+- 사용자의 질문을 분석하여 해외 주식 투자 관련 정보를 제공하는 AI 챗봇
+- AI 기반 투자 상담: OpenAI API를 활용해 맞춤형 투자 가이드 생성
+- 랜덤 투자 FAQ 제공: Supabase에서 투자 관련 FAQ 20개를 불러와 랜덤 노출
+- YouTube 영상 추천: 해외 주식 관련 유튜브 영상 자동 추천
+- Java 기반 백엔드 개발 및 Docker & Render로 배포 완료
+
+### 📰 NewsBot_Renewal ([🔗Repo](https://github.com/Yumi-Park996/NewsBot_Renewal))
 > **사이드 프로젝트 - 자동 뉴스 요약 & 투자자 코멘트 생성 봇** (Java + LLM)
 - 최신 뉴스 수집 및 LLM 기반 요약, 투자자 코멘트 생성 자동화
 - Naver 뉴스 API 크롤러 + Brevo 이메일 전송 기능 탑재
 - GitHub Actions 스케줄러로 지정 시간마다 자동 실행
 - 뉴스 수집부터 이메일 발송까지 원스톱 프로세스 구성
 - Maven 프로젝트 + PowerShell 스크립트로 환경설정 자동화
-
-### 📰 NewsBot ([🔗Repo](https://github.com/Yumi-Park996/NewsBot))
-> **자동 뉴스 요약 봇** (Java & Python)
-- 일별 최신 뉴스를 수집하고 요약하여 이메일 전송
-- Java 기반으로 네이버 뉴스 API 크롤러 개발, Scheduler와 Brevo 활용 데일리 뉴스레터 전송
-
-### 🐶 MongsilBot ([🔗Repo](https://github.com/Yumi-Park996/MongsilBot))
-> **슬랙 동기부여 챗봇** (JavaScript & Node.js)
-- 슬랙 채널에서 반려동물이 매일 격려 메시지를 보내는 봇
-- Java 기반으로 구현, LLM 활용 메시지 및 이미지 생성
-
-### 🤖 JavaBot ([🔗Repo](https://github.com/Yumi-Park996/JavaBot))
-> **Java 디자인 패턴 학습용 봇** (Java)
-- 매일 한 개의 Java 디자인 패턴을 GitHub Issues에 공유하는 봇
-- Java 기반으로 구현, LLM 활용 메시지 및 이미지 생성
-
 ---
 
 ## 📚 Learning Log (TIL)
