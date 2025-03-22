@@ -57,7 +57,7 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ### 🦾 FixBot ([🔗FrontEnd-Repo](https://github.com/Yumi-SideProject/FixBot-Frontend); 
 
-[🔗BackEnd-Repo](https://github.com/Yumi-SideProject/FixBot-Backend))_⏳ 진행 중
+### [🔗BackEnd-Repo](https://github.com/Yumi-SideProject/FixBot-Backend))_⏳ 진행 중
 
 > **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (React + Java SpringBoot + LLM)
 - 사용자의 자연어 입력을 분석하여 전자제품 고장 원인을 파악하고 해결책 제공
