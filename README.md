@@ -23,22 +23,6 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-## 🛠️ Tech Stack & Skill Badges
-
-| 분야 | 항목 |
-|---|---|
-| **프로그래밍 언어** |  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
-| **백엔드** |  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **DB** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
-| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **AI/ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
-| **협업 도구** | ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) |
-| **개발 환경** | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **웹 크롤링** | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
-| **호스팅/배포** | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) |
-| **서버/컨테이너 환경** | ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
----
-
 ## 💻 My Projects
 
 ### 🏆 PETTY ([🔗Repo](https://github.com/QuantumGuinea/FE-BASE))
@@ -55,16 +39,33 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ---
 
-### 🦾 FixBot ([🔗FrontEnd-Repo](https://github.com/Yumi-SideProject/FixBot-Frontend); 
+### 🦾 FixBot ([🔗FrontEnd-Repo](https://github.com/Yumi-Park996/FixBot-Frontend); 
 
-### [🔗BackEnd-Repo](https://github.com/Yumi-SideProject/FixBot-Backend))_⏳ 진행 중
+### [🔗BackEnd-Repo](https://github.com/Yumi-Park996/FixBot-Backend))_Now v1.0 Open! 🔥🔥🔥
 
 > **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (React + Java SpringBoot + LLM)
-- 사용자의 자연어 입력을 분석하여 전자제품 고장 원인을 파악하고 해결책 제공
-- AI 기반 검색어 최적화: OpenAI API를 활용해 대화형 방식으로 검색어 변환
-- YouTube & Google 검색 결과 제공: 검색된 정보를 OpenAI API로 필터링하여 적절한 해결책 추천
-- RAG 없이 AI 답변 생성: 검색 결과 기반이 아닌, AI가 직접 해결책을 제안
-- Java SpringBoot를 기반으로 백엔드 개발, Docker & Render로 배포 예정
+- 사용자의 자연어 입력을 기반으로 전자제품의 고장 원인을 파악하고, AI가 적절한 해결책을 제시하는 챗봇
+- 필요 시 검색어를 최적화하여 YouTube 및 Google API를 통해 실질적인 수리 영상을 제공
+**🔧 기술 스택***
+  
+| 구분       | 사용 기술                                                                 |
+|------------|--------------------------------------------------------------------------|
+| Frontend   | React, CSS, Axios, Supabase (이미지 업로드용), Vite                      |
+| Backend    | Java Spring Boot, OpenAI API, YouTube Data API, Google Search API       |
+| AI 기술    | OpenAI GPT, Vision API (Gemini), 검색어 최적화 알고리즘 |
+| 배포 환경  | Docker, Render (Frontend/Backend 각각 분리 배포)                         |
+
+**🔧 주요 기능**
+
+| 기능 구분             | 기능 설명                                                                                      |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1. 대화형 고장 진단     | 사용자 입력을 분석하여 단계적으로 문제를 좁혀가며 고장 원인을 진단                                       |
+| 2. 검색어 최적화        | OpenAI를 통해 사용자 문장을 검색 최적화 문장으로 변환<br>→ `##검색어: "..."` 형식으로 출력                  |
+| 3. YouTube & Google 검색 | API를 활용해 적절한 콘텐츠를 필터링하여 사용자에게 추천                                                 |
+| 4. AI 직접 해결책 제시   | 검색 기반이 아닌 AI가 직접 해결책을 생성 (RAG 미사용)                                                     |
+| 5. 이미지 분석 기능     | 스크린샷 업로드 시 AI Vision 모델이 원인을 추정 (Supabase + Gemini Vision API 사용) |
+| 6. 카테고리 기반 UX 흐름 | 브랜드 → 제품군 → 세부 증상 선택 구조 제공 (삼성, LG, Apple, Xiaomi 대응)                              |
+
 ---
 
 ### 🏦 AIStockGuide ([🔗Repo](https://github.com/Yumi-Park996/Investment-guides))
