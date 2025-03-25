@@ -25,28 +25,12 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 
 ## 💻 My Projects
 
-### 🏆 PETTY ([🔗Repo](https://github.com/QuantumGuinea/FE-BASE))
-> **팀 프로젝트 - 반려동물 동반 여행지 & 숙소 & 음식점 추천 웹서비스** (JavaScript, HTML, CSS)
-- **주요 기능**:
-  - 🏨 **반려동물 동반 여행지, 숙소, 음식점 추천 시스템** (LLM + RAG 활용 사용자 선호도 기반 장소 추천)
-  - 📸 **반려동물 이미지 기반 특징 분석지 생성** (WoW Moment 제공, Vision 모델 활용 반려동물 특성 분석기)
-  - 📝 **집사 커뮤니티 기능** (반려동물 관련 정보 작성 & 공유)
-  - 🔐 **로그인 & 회원가입 기능**
-- **기술 스택**:
-  - JavaScript (프론트엔드 로직 개발)
-  - HTML, CSS (UI/UX 디자인)
-  - GitHub Pages 배포
-
----
-
-### 🦾 FixBot ([🔗FrontEnd-Repo](https://github.com/Yumi-Park996/FixBot-Frontend); 
-
-### [🔗BackEnd-Repo](https://github.com/Yumi-Park996/FixBot-Backend))_Now v1.0 Open! 🔥🔥🔥
+### 🦾 FixBot ([🔗FrontEnd-Repo](https://github.com/Yumi-Park996/FixBot-Frontend); [🔗BackEnd-Repo](https://github.com/Yumi-Park996/FixBot-Backend))_Now v1.0 Open! 🔥🔥🔥
 
 > **사이드 프로젝트 - 증상 기반 고장 진단 챗봇** (React + Java SpringBoot + LLM)
 - 사용자의 자연어 입력을 기반으로 전자제품의 고장 원인을 파악하고, AI가 적절한 해결책을 제시하는 챗봇
 - 필요 시 검색어를 최적화하여 YouTube 및 Google API를 통해 실질적인 수리 영상을 제공
-**🔧 기술 스택***
+🔧 기술 스택
   
 | 구분       | 사용 기술                                                                 |
 |------------|--------------------------------------------------------------------------|
@@ -55,7 +39,7 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 | AI 기술    | OpenAI GPT, Vision API (Gemini), 검색어 최적화 알고리즘 |
 | 배포 환경  | Docker, Render (Frontend/Backend 각각 분리 배포)                         |
 
-**🔧 주요 기능**
+🔧 주요 기능
 
 | 기능 구분             | 기능 설명                                                                                      |
 |----------------------|-------------------------------------------------------------------------------------------------|
@@ -66,6 +50,19 @@ AI와 데이터 관련 기술에도 관심이 많아요.
 | 5. 이미지 분석 기능     | 스크린샷 업로드 시 AI Vision 모델이 원인을 추정 (Supabase + Gemini Vision API 사용) |
 | 6. 카테고리 기반 UX 흐름 | 브랜드 → 제품군 → 세부 증상 선택 구조 제공 (삼성, LG, Apple, Xiaomi 대응)                              |
 
+---
+
+### 🏆 PETTY ([🔗Repo](https://github.com/QuantumGuinea/FE-BASE))
+> 팀 프로젝트 - 반려동물 동반 여행지 & 숙소 & 음식점 추천 웹서비스 (JavaScript, HTML, CSS)
+- 주요 기능:
+  - 🏨 반려동물 동반 여행지, 숙소, 음식점 추천 시스템 (LLM + RAG 활용 사용자 선호도 기반 장소 추천)
+  - 📸 반려동물 이미지 기반 특징 분석지 생성 (WoW Moment 제공, Vision 모델 활용 반려동물 특성 분석기)
+  - 📝 집사 커뮤니티 기능 (반려동물 관련 정보 작성 & 공유)
+  - 🔐 로그인 & 회원가입 기능
+- 기술 스택:
+  - JavaScript (프론트엔드 로직 개발)
+  - HTML, CSS (UI/UX 디자인)
+  - GitHub Pages 배포
 ---
 
 ### 🏦 AIStockGuide ([🔗Repo](https://github.com/Yumi-Park996/Investment-guides))
