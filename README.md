@@ -1,10 +1,11 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yumi-Park996&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Yumi-Park996"
-  width="600"
-  height="300"
+  width="3000"
+  height="600"
 />
 </a>
+
 
 # 🔱 Hello, I'm Yumi Park!
 
